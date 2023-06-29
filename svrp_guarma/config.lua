@@ -26,7 +26,7 @@ Config.Npc = {
 
 	[2] = {
 		-- Skipper Guarma
-		["Model"] = "A_M_O_GuaTownfolk_01",
+		["Model"] = "CS_MP_JORGE_MONTEZ",
 		["Pos"] = vector3(1266.02, -6852.15, 42.31),
 		["Heading"] = -124.280
 	},
