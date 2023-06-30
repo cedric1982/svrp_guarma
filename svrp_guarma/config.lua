@@ -34,7 +34,16 @@ Config.Npc = {
 
 }
 
+Config.blips = { -- https://filmcrz.github.io/blips/
+    {
+        name = "Fähre Guarma",
+        hash = -1018164873,
+        scale = 0.5,
+        coords = {x = 2671.24, y = -1549.4, z = 46.17},
+    },
 
+
+}
 
 keys = {
     -- Letters
